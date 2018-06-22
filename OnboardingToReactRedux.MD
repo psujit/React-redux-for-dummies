@@ -1,4 +1,6 @@
 !DISCLAIMER: THIS IS NOT A TEST. IT IS JUST A STEP BY STEP PROCEDURE TO UNDERSTAND AND GET USED TO REACT AND REDUX
+
+
 Step 1: Read through the basics of React and understand the basic underlying concepts. You should be able to answer questions like the following:
 - What is a React Component? What is the benefit of creating and using components?
 - How can you compose a React Component?
