@@ -1,6 +1,8 @@
 # react-redux-for-dummies
 An incremental step by step practical method to understand and get familiar with the basics of React and Redux. The tasks are divided into days assuming you spend just 1 or 2 hours per day on this task. You are welcome to finish the tasks at your own speed.
 
+[Onboarding to React and Redux](OnboardingToReactRedux.md)
+
 ## Pre requisites
 
 ` JavaScript`
