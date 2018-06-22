@@ -55,7 +55,7 @@ Once the conversion from React State to Redux State is done, you should be able 
 - What is immutability? Why is it important?
 - What are the advantages of using Redux?
 
-To not have any misconceptions about Redux, it is recommended to read the following article: [You Might Not Need Redux by Dan Abramov](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367) (Yes, you read that right).
+To not have any misconceptions about Redux, it is recommended to read the following article: [You Might Not Need Redux](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367) by Dan Abramov (Yes, you read that right).
 
 After having read the above article, there is an open question that needs to be answered (And it does not have one correct answer):
 - Did we need to use Redux in the project that we created?
