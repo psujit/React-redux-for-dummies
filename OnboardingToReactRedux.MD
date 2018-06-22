@@ -16,7 +16,9 @@ Step 1: Read through the basics of React and understand the basic underlying con
 
 
 Step 2: Here begins the fun part - Hands On!
+
 Scenario: I am a big company and you are a freelancer. I outsource certain smaller tasks that I do not want to do.
+
 Situation 1:
 - I want a component generates(just generate. Not send) a welcome email for Mr. John Doe. Body of the email not important(Lorem ipsum will do). Use of any HTML tag would be fine.
 
