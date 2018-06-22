@@ -24,7 +24,7 @@ Here begins the fun part - Hands On!
 I am a big company and you are a freelancer. I outsource certain smaller tasks that I do not want to do.
 
 #### Day 1:
-I want a component generates(just generate. Not send) a welcome email for Mr. John Doe. Body of the email not important(Lorem ipsum will do). Use of any HTML tag would be fine.
+I want a component generates(just generate. Not send.) a welcome email for Mr. John Doe. Body of the email not important(Lorem ipsum will do). Use of any HTML tag would be fine.
 
 #### Day 2:
 Now, I am the client, so I am allowed to change my mind. :P
