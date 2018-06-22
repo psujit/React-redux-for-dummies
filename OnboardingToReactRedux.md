@@ -45,7 +45,7 @@ If yes, I would want to have the logic to just generate the email separate, so t
 Now, I need some more functionality in the Components. The Component which initially accepted only name should now be a form that accepts the name, email address and date of birth. And the Component which generated the email should include the first name, the email address and age based content for the user. So, different contents for users with age < 30, >30 and >60.
 
 #### Day 6:
-- Good job! Now create a list to save the details of the user that I am adding (temporary is fine). The list of these contacts is displayed on the same page.
+Good job! Now create a list to save the details of the user that I am adding (temporary is fine). The list of these contacts is displayed on the same page.
 
 #### Day 7:
 Now when I click on one of the contacts from the list, an email for that specific user should be generated with his first name, the email address and age based content for the user.
