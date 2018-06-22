@@ -2,7 +2,7 @@
 *!DISCLAIMER: THIS IS NOT A TEST. IT IS JUST A STEP BY STEP PROCEDURE TO UNDERSTAND AND GET USED TO REACT AND REDUX*
 
 
-## 1. Step 1: 
+## Step 1: 
 Read through the basics of React and understand the basic underlying concepts (A good starting point would be the React tutorial [here](https://reactjs.org/tutorial/tutorial.html)). You should be able to answer questions like the following:
 - What is a React Component? What is the benefit of creating and using components?
 - How can you compose a React Component?
@@ -17,7 +17,7 @@ Read through the basics of React and understand the basic underlying concepts (A
 - What are Controlled and Uncontrolled input components? Example scenarios where they can be used.
 
 
-## 1. Step 2:
+## Step 2:
 Here begins the fun part - Hands On!
 
 ### Scenario:
