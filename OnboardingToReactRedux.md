@@ -17,8 +17,7 @@ Read through the basics of React and understand the basic underlying concepts (A
 - What are Controlled and Uncontrolled input components? Example scenarios where they can be used.
 
 
-## Step 2:
-Here begins the fun part - Hands On!
+## Step 2: Here begins the fun part - Hands On!
 
 ### Scenario:
 I am a big company and you are a freelancer. I outsource certain smaller tasks that I do not want to do.
