@@ -1,7 +1,7 @@
 !DISCLAIMER: THIS IS NOT A TEST. IT IS JUST A STEP BY STEP PROCEDURE TO UNDERSTAND AND GET USED TO REACT AND REDUX
 
 
-Step 1: Read through the basics of React and understand the basic underlying concepts (A good starting point would be the React tutorial [here] (https://reactjs.org/tutorial/tutorial.html)). You should be able to answer questions like the following:
+Step 1: Read through the basics of React and understand the basic underlying concepts (A good starting point would be the React tutorial [here](https://reactjs.org/tutorial/tutorial.html)). You should be able to answer questions like the following:
 - What is a React Component? What is the benefit of creating and using components?
 - How can you compose a React Component?
 - What are Props and State. How are they different from one another? What they are used for?
@@ -43,7 +43,7 @@ Situation 7:
 - Now when I click on one of the contacts from the list, an email for that specific user should be generated with his first name, the email address and age based content for the user.
 (State Management comes into the picture).
 
-Now that we have a basic idea of how to use React in our day-to-day applications, we would extend our learning to Redux. To get used to how Redux works, it is helpful to watch and learn from Dan Abramov the co-author of Redux [here] (https://egghead.io/courses/getting-started-with-redux)
+Now that we have a basic idea of how to use React in our day-to-day applications, we would extend our learning to Redux. To get used to how Redux works, it is helpful to watch and learn from Dan Abramov the co-author of Redux [here](https://egghead.io/courses/getting-started-with-redux)
 
 Using the knowledge that we just acquired, we can start converting the state that we used in our application and convert it to Redux State.
 The major difference that we see here is that, when we use React State, if the top-most component needs access to any mutable variable, it is added to the state of that component and all the children components that need to access that variable are provided with that variable via Props. Whereas, in Redux state, the state is stored globally in a Redux store and any of the Components irrespective of their hierarchy can access the variable without explicitly passing that variable as a Prop.
@@ -55,7 +55,7 @@ Once the conversion from React State to Redux State is done, you should be able 
 - What is immutability? Why is it important?
 - What are the advantages of using Redux?
 
-To not have any misconceptions about Redux, it is recommended to read the following article: [You Might Not Need Redux by Dan Abramov]  (https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367) (Yes, you read that right).
+To not have any misconceptions about Redux, it is recommended to read the following article: [You Might Not Need Redux by Dan Abramov](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367) (Yes, you read that right).
 
 After having read the above article, there is an open question that needs to be answered (And it does not have one correct answer):
 - Did we need to use Redux in the project that we created?
